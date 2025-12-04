@@ -44,3 +44,11 @@ A Retrieval-Augmented Generation (RAG) powered chatbot for analyzing customer tr
 ```bash
 git clone https://github.com/yourusername/rag-transaction-chatbot.git
 cd rag-transaction-chatbot
+```
+
+2. **Run Project**
+```bash
+pip install -r requirements.txt
+
+python app.py
+```
